@@ -1,1 +1,5 @@
-# docker-alpine
+# Docker Alpine
+
+## License
+
+[MIT](./LICENSE)
