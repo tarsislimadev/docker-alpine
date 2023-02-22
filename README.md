@@ -4,6 +4,10 @@
 
 Alpine docker image with [bash]() [curl]() [git]()
 
+## Stack
+
+[alpine](./src/latest/Dockerfile)
+
 ## License
 
 [MIT](./LICENSE)
